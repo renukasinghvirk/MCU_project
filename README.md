@@ -20,7 +20,8 @@ to PC device to load program
 8. Enjoy!
 <p align="center">
   <img src=assemblyphoto.png width="380">
-  Fig.1 : Setup.
+<p align='center>
+Fig.1 : Setup.
 </p>
 
 
