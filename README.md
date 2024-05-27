@@ -20,10 +20,10 @@ to PC device to load program
 8. Enjoy!
 <p align="center">
   <img src=assemblyphoto.png width="380">
-<p align='center>
+<p align="center"
+</p>
 Fig.1 : Setup.
 </p>
-
 
 ## License
 © 2024 GitHub, Inc.
