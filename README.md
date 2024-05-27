@@ -17,7 +17,7 @@ on Fig.1
 7. Connect the STK300 board ISP interface to USB AVR
 ISP In System Programmer which is connected by USB
 to PC device to load program
-
+8. Enjoy!
 <p align="center">
   <img src=assemblyphoto.png width="450">
 </p>
