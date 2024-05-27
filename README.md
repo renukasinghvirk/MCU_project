@@ -19,9 +19,8 @@ ISP In System Programmer which is connected by USB
 to PC device to load program
 8. Enjoy!
 <p align="center">
-  <img src=assemblyphoto.png width="450">
-</p>
-Fig.1 : Setup.
+  <img src=assemblyphoto.png width="380">
+  Fig.1 : Setup.
 </p>
 
 
